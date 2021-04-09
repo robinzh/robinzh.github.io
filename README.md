@@ -1,17 +1,9 @@
 helloapp
 ========
- Bookmarks
+html 在线转 markdown http://www.atoolbox.net/Tool.php?Id=715
 
-Bookmarks
-=========
 
 ### 书签栏
-
-[权限](https://nokia.sharepoint.com/:x:/r/sites/LTEDCMHZ/PS/_layouts/15/doc2.aspx?sourcedoc=%7B9A59E9EE-4EB1-43C6-8BB3-4A92A476ED6B%7D&file=Account_Creation.xlsx&action=default&mobileredirect=true&cid=0963096f-fa5e-472c-b94a-e6d3003a9e89)
-
-[架构](https://nokia.sharepoint.com/sites/ps/specification/Document/Forms/AllItems.aspx?viewid=2a3bd684-793e-4571-9210-cf0ba499e9f6&id=%2Fsites%2Fps%2Fspecification%2FDocument%2FSpecification%20category%20documents%2FInternal%20Communications%2FPictures)
-
-[plan](https://nokia.sharepoint.com/sites/UPHWAPI/_layouts/15/doc2.aspx?sourcedoc=%7BC0765599-AEEE-4DD0-96E8-D3A7CDABB597%7D&file=01__Induction_for_new_comers_PSW3_SG1_zhangbin.xlsx&action=default&mobileredirect=true&cid=bba4f32e-6ec8-4542-8d2d-c308a2ca7216)
 
 ### 5G
 
@@ -85,181 +77,17 @@ Bookmarks
 
 ### Spec
 
-[FSY\_UP-HWAPI\_Architecture\_Feasibility\_Study\_for\_5G\_ASIK\_ed3\_1.docx](https://nokia.sharepoint.com/:w:/r/sites/ASIK/_layouts/15/Doc.aspx?sourcedoc=%7B412FE42C-D0B7-4560-A81A-43DA8AB0C80A%7D&file=FSY_UP-HWAPI_Architecture_Feasibility_Study_for_5G_ASIK_ed3_1.docx&action=default&mobileredirect=true&cid=10df509b-3b85-49e9-baf9-b4d30213396e)
-
-[BB Product Architecture - Home](https://nokia.sharepoint.com/sites/bbproductarch/SitePages/Home.aspx)
-
-[L1 RD Hangzhou Home - L1 RD Hangzhou - Dashboard](https://confluence.int.net.nokia.com/display/L1RDHZH/L1+RD+Hangzhou+Home)
-
-[NWS WCDMA BTS User Plane - BTS User Plane - Dashboard](https://confluence.int.net.nokia.com/display/btsup/NWS+WCDMA+BTS+User+Plane)
-
-[ASIK - Home](https://nokia.sharepoint.com/sites/ASIK/SitePages/Home.aspx)
-
-[缩写词](https://twiki.int.net.nokia.com/bin/view/BtsSoftwareArchitecture/Vocabulary)
-
-[ABIN - Home](https://nokia.sharepoint.com/sites/ABIN/SitePages/Home.aspx)
-
-[UP HWAPI - BTS Platform UP HWAPI - Dashboard](https://confluence.int.net.nokia.com/display/UPHWAPI/UP+HWAPI)
-
-[WBTS RnD and Productization Tribe Home - WBTS RnD and Productization Tribe - Dashboard](https://confluence.int.net.nokia.com/display/WBTSRDPRDZ/WBTS+RnD+and+Productization+Tribe+Home)
-
-[5G&SC SW Eng CN Home - 5G&SC SW Eng CN Home - Dashboard](https://confluence.int.net.nokia.com/pages/viewpage.action?pageId=904770924)
-
-[MN BB HW INT WRO Home - MN BB HW INT WRO - Dashboard](https://confluence.int.net.nokia.com/display/HWINTWRO/MN+BB+HW+INT+WRO+Home)
-
-[CCS-RT Team page - BTS Platform UP HWAPI - Dashboard](https://confluence.int.net.nokia.com/display/UPHWAPI/CCS-RT+Team+page)
-
-[EventMachine - BTS Platform UP HWAPI - Dashboard](https://confluence.int.net.nokia.com/display/UPHWAPI/EventMachine)
-
-[EM ODP](https://confluence.int.net.nokia.com/pages/viewpage.action?spaceKey=UPHWAPI&title=EM-ODP+Integration+in+UPHWAPI)
-
-[Baseband PSW3 - Home](https://nokia.sharepoint.com/sites/LTEDCMHZ/SitePages/Home.aspx)
-
-[Using YAFT in Airscale to update SW - BTS Platform UP HWAPI - Dashboard](https://confluence.int.net.nokia.com/pages/viewpage.action?pageId=396963227)
-
-[Marlin - BTS Platform UP HWAPI - Dashboard](https://confluence.ext.net.nokia.com/display/UPHWAPI/Marlin)
-
-[Midori消息查询](https://midori.emea.nsn-net.net/#counters_lte/search?number=58&page=1)
-
-[Debug tools - BTS Platform UP HWAPI - Dashboard](https://confluence.inside.nsn.com/pages/viewpage.action?spaceKey=UPHWAPI&title=Debug+tools)
-
-[FSMr4\_Interface\_Configuration.xlsx](https://nokia.sharepoint.com/:x:/r/sites/ps/specification/_layouts/15/Doc.aspx?sourcedoc=%7BEDEA0DF5-80C1-47E2-98F5-BAC528BD9DE4%7D&file=FSMr4_Interface_Configuration.xlsx&action=default&mobileredirect=true&cid=4b8048b5-3d97-49d9-887e-6413f07b7c6d)
-
-[gNB ICOM - Wireshark - Dashboard](https://confluence.ext.net.nokia.com/display/Wireshark/gNB+ICOM)
-
-[ASIL\_ABIL BIP Traffic with Qos - MN BBP OPSW1 - Dashboard](https://confluence.ext.net.nokia.com/pages/viewpage.action?spaceKey=OPSW1&title=ASIL_ABIL+BIP+Traffic+with+Qos)
-
-[EM development environment - BTS Platform UP HWAPI - Dashboard](https://confluence.inside.nsn.com/display/UPHWAPI/EM+development+environment)
-
-[CC&S - Training - All Documents](https://nokia.sharepoint.com/sites/ps/ccs/Shared%20Documents/Forms/AllItems.aspx?viewid=f33c133b%2D7e08%2D42fd%2D9c00%2D11cd20ba150d&id=%2Fsites%2Fps%2Fccs%2FShared%20Documents%2F001%20CC%26S%2FTraining)
-
-[BTS\_Flexible\_Configuration.xlsx](https://nokia.sharepoint.com/:x:/r/sites/ps/specification/_layouts/15/Doc.aspx?sourcedoc=%7BBC4C75E2-2BCB-4380-B505-E7D0148325AB%7D&file=BTS_Flexible_Configuration.xlsx&action=default&mobileredirect=true)
-
-[PSSW Internal Communication FSM-r4](https://eseemds78.emea.nsn-net.net:8443/webapp/collaborator/document/98566a51-5135-4936-9760-1c992ef24a7a?viewId=c36dd78a-3b7f-4c22-a14e-7e2b1aa5b421&viewType=model&sectionId=f0c3d3be-f94a-4d13-a286-c9d9c54fd951)
-
-[\[SNF\] dpdk\_monitor pool dump analysis - BTS Platform UP HWAPI - Dashboard](https://confluence.ext.net.nokia.com/display/UPHWAPI/%5BSNF%5D+dpdk_monitor+pool+dump+analysis)
-
-[MagicDraw UP](https://eseemds78.emea.nsn-net.net:8443/webapp/collaborator/document/45c08d0f-2caf-45dd-9401-d389bc914cc3?viewId=6f0f2555-10c9-4606-bb5a-37527a66782d&viewType=model&sectionId=cbbd5f86-1162-470d-841e-bd3685e4ff55)
-
-[startup](https://confluence.ext.net.nokia.com/display/UPHWAPI/CCS-RT+Start-up+in+FB15.07+and+later+releases)
-
-[SW event header and BIP additional header - BTS Platform UP HWAPI - Dashboard](https://confluence.inside.nsn.com/display/UPHWAPI/SW+event+header+and+BIP+additional+header)
-
-[Timers for EM Deployment on XEON - BTS Platform UP HWAPI - Dashboard](https://confluence.ext.net.nokia.com/display/UPHWAPI/Timers+for+EM+Deployment+on+XEON)
-
-[BOAM](https://confluence.ext.net.nokia.com/display/MANO/Baseband+aspect+architecture+-+current#Basebandaspectarchitecturecurrent-Introduction)
-
-[Marlin L2+ SoC - SDK Training - All Documents](https://nokia.sharepoint.com/sites/marlin/Shared%20Documents/Forms/AllItems.aspx?cid=cb417a48%2Dd350%2D4a87%2Da154%2Ddb88872db7c7&FolderCTID=0x012000611F39C2E331DE49ABA46C7AD497EA99&viewid=a003159c%2D5ebe%2D439b%2D9c67%2Dda73ee3f05d4&id=%2Fsites%2Fmarlin%2FShared%20Documents%2FMarlin%20MN%20all%2FTraining%2FSDK%20Training)
-
 [OpenDataPlane (ODP) Users-Guide](https://opendataplane.github.io/odp/users-guide/#_queue)
-
-[Runtime control - BTS Platform UP HWAPI - Dashboard](https://confluence.ext.net.nokia.com/display/UPHWAPI/runtime+control)
-
-[DPDK 5G presentation.pptx](https://nokia-my.sharepoint.com/:p:/r/personal/karim_harouat_nokia_com/_layouts/15/guestaccess.aspx?rtime=QYHbofj91kg&share=EWiM_4qD0wdDq1MW_G6gQugBscmvoQTw-UmPNeXkj_SJRg)
-
-[ASOE - testing plan - All Documents Full View](https://nokia.sharepoint.com/sites/asoe_home/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fasoe_home%2FShared%20Documents%2F09%20ASOE%20SW%20Project%2FASOE%20SW%20Design%20and%20Testing%2Ftesting%20plan)
-
-### nokia
-
-[Nokia Identity Management System](https://idm.int.net.nokia.com/IdmGuiWeb/flow/group/search?execution=e2s1)
-
-[WFT 版本发布](https://wft.int.net.nokia.com/)
-
-[统一工作平台](http://ep.int.nokia-sbell.com/)
-
-[诺基亚上海贝尔首页](http://homepage.int.nokia-sbell.com/home.aspx)
 
 [Learn](https://nokialearn.csod.com/client/nokialearn/default.aspx)
 
-[首页](https://nokia.sharepoint.com/sites/Nokia_Central)
-
 [Yammer](https://www.yammer.com/nokia.com/#/home)
-
-[Achievement Center](https://nokia.sharepoint.com/sites/learn/achiev/SitePages/index.aspx#myindex)
-
-[UPHWAPI](https://confluence.int.net.nokia.com/display/UPHWAPI/Debug+tools)
-
-[How to install SBTS SW build via YAFT tool? - WBTS RnD and Productization Tribe - Dashboard](https://confluence.int.net.nokia.com/pages/viewpage.action?pageId=895924049)
-
-[NSB IT Portal](http://homepage.int.nokia-sbell.com/sites/it/Home.aspx)
-
-[NSB IT Service Portal](https://itservice.int.nokia-sbell.com/pages/login.aspx?pkData=https%3a%2f%2fitservice.int.nokia-sbell.com%2fPages%2fDefault.aspx)
-
-[Nokia - Password Change Tool](https://pwc.int.net.nokia.com/)
-
-[NSB Enterprise Portal](http://ep.int.nokia-sbell.com/)
-
-[Moc List - NIDD](http://esnidd055.emea.nsn-net.net/NIDD/Trans/Moc?domainId=0&productId=0&filterByStatus=-1)
-
-[Citrix安装指南](https://nokia.sharepoint.com/:w:/r/sites/UPHWAPI/_layouts/15/doc2.aspx?sourcedoc=%7B4420AB45-96A8-45B6-921F-07A651AC08FC%7D&file=Citrix_Work_Space.docx&action=default&mobileredirect=true&cid=fffe2175-93c9-48b6-8e70-eb2475e0c1bf)
-
-[PS Overview - PS SW Maintenance - Dashboard](https://confluence.ext.net.nokia.com/display/PSSWMain/PS+Overview)
-
-[工资查询](https://ezp.excelityglobal.cn/embrace/admincontroller/admin)
-
-[UPHWAPI\_OT\_Record.xlsx](https://nokia.sharepoint.com/:x:/r/sites/UPHWAPI/_layouts/15/Doc.aspx?sourcedoc=%7BE88F07B0-2EB3-4E4F-8C00-A8AE57215B3D%7D&file=UPHWAPI_OT_Record.xlsx&action=default&mobileredirect=true&cid=8d2a65c9-8e5e-4415-9bdf-8f4da211c912)
-
-[Bangalor实验室](https://blrmtplabs.srnblr.nsn-rdnet.net:6082/php/uid.php?vsys=1&rule=0&url=https://inbalabauth.intra.noklab.net)
 
 [EventMachine · GitLab](https://gitlabe1.ext.net.nokia.com/EventMachine)
 
-[CFAM流程](https://confluence.ext.net.nokia.com/display/SPECWOW/MN+Common+Feature+Analysis+Module+%28CFAM%29+Development+Process)
-
-[Doors权限申请](https://sda.nsn-net.net/Requestor)
-
-[SAFe - How-to articles - Process Flow Automation - Dashboard](https://confluence.ext.net.nokia.com/display/TCC/SAFe+-+How-to+articles)
-
-[Mail - Preinvestigationrequests](https://outlook.office.com/mail/dsphwapi.preinvestigationrequests@nokia.com/inbox/id/AAQkAGRjYmJkMjM0LWVlNjgtNDk3ZS04NzAxLTliZGRkMjMyNTBmNAAQAFgVi76bMEvNvFzzrnMOgF8%3D)
-
 [Awards Available for Redemption](https://www.globoforce.net/microsites/t/dashboard/MyAwards?client=nsn)
 
-[NSB 休假政策 - Guo, Yigang (NSB - CN/Hangzhou) - Dashboard](https://confluence.ext.net.nokia.com/pages/viewpage.action?pageId=1070961012&preview=%2F1070961012%2F1070961007%2FLeave+Policy_CN+-+NSB.pdf)
-
-[SNF Event Machine solution](https://confluence.ext.net.nokia.com/display/UPHWAPI/SNF+Event+Machine+solution)
-
-[Code review checklist - BTS Platform UP HWAPI - Dashboard](https://confluence.inside.nsn.com/pages/viewpage.action?spaceKey=UPHWAPI&title=Code+review+checklist)
-
 [odp-dpdk](https://github.com/OpenDataPlane/odp-dpdk/tree/master/platform/linux-dpdk)
-
-[5G Pronto Groups](https://confluence.ext.net.nokia.com/pages/viewpage.action?spaceKey=CV&title=5G+Pronto+Groups)
-
-[Raise an Innovation idea by yourself - 5G L1 China Team - Dashboard](https://confluence.ext.net.nokia.com/display/5GL1FT/Raise+an+Innovation+idea+by+yourself)
-
-### lesson
-
-[Baseband Software Architecture](https://nokialearn.csod.com/LMS/Video/LaunchVideo.aspx?loid=46db409e-1a9c-404e-ab01-d79ede5dc44a)
-
-[System Module SW](https://nokialearn.csod.com/LMS/Video/LaunchVideo.aspx?loid=f3b601df-b2fa-4294-b24e-704394b2854c)
-
-[LFS](https://nokialearn.csod.com/ui/lms-learning-details/app/video/38e46370-889a-4ffd-8be1-e7bcfdd2bfca#t=1)
-
-[33Server](http://10.69.120.33/repos/UPHWAPI/)
-
-[Tools & resources](https://nokia.sharepoint.com/sites/Nokia_Central/SitePages/Tools-and-resources.aspx)
-
-[PS WMP Maintenance Work Reference - PSHZ - Dashboard](https://confluence.ext.net.nokia.com/display/PSHZ/PS+WMP+Maintenance+Work+Reference)
-
-[PR320582 | gerrit.ext Code Review](https://gerrit.ext.net.nokia.com/gerrit/#/q/PR320582)
-
-[Welcome Dashboard - Grafana](https://emperf.pscloud.emea.nsn-net.net/grafana/d/jvNXn0dMz/welcome-dashboard?orgId=1)
-
-[SoC Competence - Training materials 2018 - All Documents](https://nokia.sharepoint.com/sites/mnsoc/code/Shared%20Documents/Forms/AllItems.aspx?csf=1&e=fYQY6C&cid=c07e270b%2D015d%2D45c4%2Dbac2%2D64f5e70e7c21&FolderCTID=0x0120000B05A687AE1D0A47BEA1DE9B65CAE9FC&viewid=5c705ed8%2D8adc%2D44c1%2D99b9%2D31ace1ae797a&id=%2Fsites%2Fmnsoc%2Fcode%2FShared%20Documents%2FTraining%20materials%202018)
-
-[Snowfish DSI high latency - Meunier, Julien (Nokia - FR/Paris-Saclay) - Dashboard](https://confluence.ext.net.nokia.com/display/~jmeunier/Snowfish+DSI+high+latency)
-
-[Auto JIRA](http://lab.nsn-intra.net/AutoJira/)
-
-[TeamCal Pro Home](https://psweb.nsn-net.net/PS/TeamCal/index.php?action=calendar)
-
-[Report - Time Sheet Report - JIRADC ONE(EE Jira 7.6)](https://jiradc.ext.net.nokia.com/secure/TimesheetReport.jspa?targetUser=b2zhang&reportKey=jira-timesheet-plugin:report&weekends=true&startDate=2020-12-31&endDate=2021-01-27)
-
-[ASOE - testing plan - All Documents Full View](https://nokia.sharepoint.com/sites/asoe_home/Shared%20Documents/Forms/AllItems.aspx?RootFolder=/sites/asoe_home/Shared%20Documents/09%20ASOE%20SW%20Project/ASOE%20SW%20Design%20and%20Testing/testing%20plan)
-
-[LinuxRepo](https://nokia.sharepoint.com/sites/CDS_Lab_Ops/Wroclaw/SitePages/LinuxRepo.aspx)
-
-[Index of /repository/SEE/linsee/pilot/rhel7/x86\_64](http://bhlina60.apac.nsn-net.net/repository/SEE/linsee/pilot/rhel7/x86_64/)
-
-[10.56.8.56/share/yocto-devshell-env.txt](http://10.56.8.56/share/yocto-devshell-env.txt)
 
 ### OS
 
@@ -661,27 +489,13 @@ Bookmarks
 
 [PR](https://pronto.int.net.nokia.com/pronto/fetchReports.html?viewType=0&viewsOrStatisticsId=VIEW840229NGIT&parentTab=pr_report_list&viewState=Open&parentTab=pr_report_list&view=Assigned+to+me&viewName=Assigned+to+me)
 
-[novnc2](http://wrlinb199.emea.nsn-net.net:8080/)
-
-[PS首页](https://confluence.int.net.nokia.com/display/PSHZ/WIKI+Home)
-
-[UPUniversity](https://nokia.sharepoint.com/sites/ps/uphwapi/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=oB38lZ&cid=559ad436%2D1452%2D4454%2Dbd33%2Dbe920c68ae79&FolderCTID=0x012000271A0F7E09019A40926F38A9806FAFE5&viewid=0236bdca%2D5595%2D406c%2Da49d%2D28edb0905f3d&id=%2Fsites%2Fps%2Fuphwapi%2FShared%20Documents%2FUU%28UPHWAPI%5FUniversity%29)
-
-[InfoView](https://infoview.app.nokia.com/)
-
 [Gliffy](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad/related)
 
 [Vsd](chrome-extension://mcpmofnlkemfkhgngcdppgbhncoflmpe/data/free_visio_viewer.html)
 
 [draw.io](https://app.diagrams.net/)
 
-[PS\_REL](https://wft.int.net.nokia.com/PS/PS/builds/FB_PS_REL_2020_07_0049)
-
 [find命令](https://blog.csdn.net/u013008795/article/details/88707613)
-
-[Creating PS Knife - BTS Platform UP HWAPI - Dashboard](https://confluence.ext.net.nokia.com/display/UPHWAPI/Creating+PS+Knife)
-
-[Create a new Knife Request | Workflow Tool](https://wft.int.net.nokia.com/ALL/knife_requests/new)
 
 [百度百科\_V百科\_咸鱼翻身到人才济济](https://baike.baidu.com/vbaike/%E5%92%B8%E9%B1%BC%E7%BF%BB%E8%BA%AB%E5%88%B0%E4%BA%BA%E6%89%8D%E6%B5%8E%E6%B5%8E/63772)
 
@@ -690,8 +504,6 @@ Bookmarks
 [唐文斌（北京旷视科技有限公司联合创始人）\_百度百科](https://baike.baidu.com/item/%E5%94%90%E6%96%87%E6%96%8C/14692119?fr=aladdin)
 
 [三分钟入坑指北 🔜 Docsify + Serverless Framework 快速创建个人博客 - 知乎](https://zhuanlan.zhihu.com/p/100406698)
-
-[Newcomer training plan for CCS-RT - BTS Platform UP HWAPI - Dashboard](https://confluence.ext.net.nokia.com/display/UPHWAPI/Newcomer+training+plan+for+CCS-RT)
 
 [(3条消息) 你大概走了假敏捷：认真说说敏捷的实现和问题（手绘版）\_weixin\_30716725的博客-CSDN博客](https://blog.csdn.net/weixin_30716725/article/details/95145052?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param)
 
