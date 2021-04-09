@@ -213,7 +213,7 @@ html 在线转 markdown http://www.atoolbox.net/Tool.php?Id=715
 
 [全新的MACCHIATObin开发板能够满足更大范围的开发者需求-电子发烧友网](http://www.elecfans.com/d/633101.html)
 
-[https://www.baidu.com/link?url=l9njv4lZsD74-2830ybx-PSpwiM0w70GdmjInVWwI9GBt0-BSYTIcPDqnL16OEvOmJnFda8Yk5cHxA1O-LbZHDNkPCgsgXYW6Ia8RSkioxe&wd=&eqid=8b93e6e1000276e200000006606e99ee](https://www.baidu.com/link?url=l9njv4lZsD74-2830ybx-PSpwiM0w70GdmjInVWwI9GBt0-BSYTIcPDqnL16OEvOmJnFda8Yk5cHxA1O-LbZHDNkPCgsgXYW6Ia8RSkioxe&wd=&eqid=8b93e6e1000276e200000006606e99ee)
+[Adafruit推出Clue开发板：Arduino的廉价替代品](https://www.baidu.com/link?url=l9njv4lZsD74-2830ybx-PSpwiM0w70GdmjInVWwI9GBt0-BSYTIcPDqnL16OEvOmJnFda8Yk5cHxA1O-LbZHDNkPCgsgXYW6Ia8RSkioxe&wd=&eqid=8b93e6e1000276e200000006606e99ee)
 
 ### 并发
 
